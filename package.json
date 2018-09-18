@@ -1,0 +1,13 @@
+{
+  "name": "perl6-parcel-example",
+  "version": "1.0.0",
+  "description": "a super simple Perl 6 in browser example",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^1.9.7",
+    "parcel-plugin-nqp": "0.17.0"
+  },
+  "devDependencies": {},
+  "author": "Paweł Murias",
+  "license": "Artistic-2.0"
+}

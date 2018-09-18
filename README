@@ -1,0 +1,5 @@
+A super simple Perl 6 in browser using parcel example.
+Hopefully will be grown into something way cooler.
+
+$ npm install .
+$ ./node_modules/.bin parcel index.html
