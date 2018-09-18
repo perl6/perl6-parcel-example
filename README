@@ -1,5 +1,7 @@
 A super simple Perl 6 in browser using parcel example.
 Hopefully will be grown into something way cooler.
 
+# Get a current new node.js (v10.5.0 or newer the LTS ones are not supported yet)
+
 $ npm install .
 $ ./node_modules/.bin parcel index.html
