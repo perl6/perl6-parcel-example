@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "parcel": "^1.9.7",
-    "parcel-plugin-nqp": "0.17.0"
+    "parcel-plugin-nqp": "0.18.0"
   },
   "devDependencies": {},
   "author": "Paweł Murias",
